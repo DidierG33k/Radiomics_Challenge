@@ -1,0 +1,8 @@
+Question 2.4 
+
+If such situation happened I would first: 
+ 
+1. Correct the mistake by replacing all "true","yes" and "vrai" values by the originally intended value input "True" using appropriate script. 
+2. Go back to the file and fix such problem to avoid repeating same mistake in the future by allowing only valid "True" value can be accepted as input. 
+ 
+"
