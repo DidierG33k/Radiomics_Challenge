@@ -1,1 +1,26 @@
-{"path":{"head":"head.scan","thorax":"thorax.scan"},"patient":{"head":"patient0","thorax":"patient0"},"visit":{"head":"timepoint0","thorax":"timepoint0"},"Toprocess":{"head":false,"thorax":false}}
+{
+  "ScanID":
+  {
+    "0":"head",
+    "1":"thorax"
+  },
+  "path":
+  {
+    "0":"head.scan",
+    "1":"thorax.scan"
+  },
+  "patient":
+  {
+    "0":"patient0",
+    "1":"patient0"},
+  "visit":
+  {
+    "0":"timepoint0",
+    "1":"timepoint0"
+  },
+  "Toprocess":
+  {
+    "0":true,
+    "1":false
+  }
+}
