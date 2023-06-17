@@ -1,0 +1,3 @@
+ScanID,path,patient,visit,Toprocess
+head,head.scan,patient0,timepoint0,False
+thorax,thorax.scan,patient0,timepoint0,False
