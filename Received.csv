@@ -1,3 +1,3 @@
-ScanID,path,patient,visit,Toprocess
-head,head.scan,patient0,timepoint0,False
-thorax,thorax.scan,patient0,timepoint0,False
+,ScanID,path,patient,visit,Toprocess
+0,head,head.scan,patient0,timepoint0,True
+1,thorax,thorax.scan,patient0,timepoint0,False
